@@ -1,2 +1,2 @@
 # Project-Data-Analyst
-Penyimpanan ini berisi project-project data analyst yang sudah dikerjakan.
+Repository ini berisi project-project data analyst menggunakan tools tableau dan power BI
